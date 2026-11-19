@@ -13,6 +13,8 @@ Material didáctico para trabajar en clase, proyectar y repasar en casa.
 
 > **Aclaración curricular:** el tema de programación se presenta como actividad práctica de ampliación, no como un bloque específico obligatorio de TRDR.
 
+> **Estado de publicación:** los contenidos Markdown ya están disponibles. Los enlaces PDF y PowerPoint quedarán activos cuando se suban los cuatro archivos binarios de las presentaciones a las rutas indicadas. Puedes descargar el paquete de subida preparado en la conversación de ChatGPT.
+
 ## Cómo utilizar los materiales
 
 - **PDF:** consultar y proyectar en clase.
